@@ -1,10 +1,10 @@
 In this project, I implement a multi-threaded scheduling simulator. There are N threads running concurrently and generating cpu bursts (workload). 
 
 My simulator simulates the following scheduling algorithms:
-• FCFS
-• SJF
-• PRIO
-• VRUNTIME
+- FCFS
+- SJF
+- PRIO
+- VRUNTIME
 
 Makefile is included.
 
