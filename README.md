@@ -9,4 +9,4 @@ My simulator simulates the following scheduling algorithms:
 Makefile is included.
 
 If you wish to compile my program directly, you can compile it with the command:
-  gcc -o schedule schedule.c -lpthread -lm
+  gcc -o schedule schedule.c -lpthread -lm 
